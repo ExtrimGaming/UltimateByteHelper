@@ -1,0 +1,15 @@
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Release\net6.0\CheatCheck.csproj.AssemblyReference.cache
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Release\net6.0\CheatCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Release\net6.0\CheatCheck.AssemblyInfoInputs.cache
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Release\net6.0\CheatCheck.AssemblyInfo.cs
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Release\net6.0\CheatCheck.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Release\net6.0\CheatCheck.genruntimeconfig.cache
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\bin\Release\net6.0\UltimateByteHelper.exe
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\bin\Release\net6.0\UltimateByteHelper.deps.json
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\bin\Release\net6.0\UltimateByteHelper.runtimeconfig.json
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\bin\Release\net6.0\UltimateByteHelper.dll
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\bin\Release\net6.0\UltimateByteHelper.pdb
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Release\net6.0\UltimateByteHelper.dll
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Release\net6.0\refint\UltimateByteHelper.dll
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Release\net6.0\UltimateByteHelper.pdb
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Release\net6.0\ref\UltimateByteHelper.dll

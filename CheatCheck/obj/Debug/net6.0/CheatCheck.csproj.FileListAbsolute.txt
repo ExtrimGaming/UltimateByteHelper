@@ -1,0 +1,15 @@
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Debug\net6.0\CheatCheck.csproj.AssemblyReference.cache
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Debug\net6.0\CheatCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Debug\net6.0\CheatCheck.AssemblyInfoInputs.cache
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Debug\net6.0\CheatCheck.AssemblyInfo.cs
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Debug\net6.0\CheatCheck.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Debug\net6.0\CheatCheck.genruntimeconfig.cache
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\bin\Debug\net6.0\JMP Calculate.exe
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\bin\Debug\net6.0\JMP Calculate.deps.json
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\bin\Debug\net6.0\JMP Calculate.runtimeconfig.json
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\bin\Debug\net6.0\JMP Calculate.dll
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\bin\Debug\net6.0\JMP Calculate.pdb
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Debug\net6.0\JMP Calculate.dll
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Debug\net6.0\refint\JMP Calculate.dll
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Debug\net6.0\JMP Calculate.pdb
+C:\Users\Vladislav_Extrimov\source\repos\CheatCheck\CheatCheck\obj\Debug\net6.0\ref\JMP Calculate.dll
